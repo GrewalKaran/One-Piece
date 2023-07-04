@@ -38,3 +38,11 @@
     color: #1F2937;
     font-size: 18px;
 }
+
+.lower-middle{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+}.lower-middle div{
+    font-weight: bolder;
+}
