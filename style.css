@@ -9,7 +9,7 @@
     font-family: sans-serif;
     height: 375px;
    
-    border-color: #1F2937
+   
 }
 .container{
     display: flex;
@@ -23,7 +23,7 @@
     font-size: 48px;
     font-weight: bolder;
     margin: 0;
-    flex-shrink: 1;
+  
 }
 .right-side ul{
     list-style: none;
@@ -66,13 +66,64 @@
     height: 175px;
     text-align: center;
 }.content-right p{
-    margin-top: 69px;
+    margin-top: 75px;
 }
 
 .upper-middle p{
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    text-align: center;
+}
+.emptySquares{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.space1 {
+    width: 130px;
+    height: 130px;
+    border:2px solid #3882f6; 
+    border-radius: 6px;
+}
+.space2{
+    width: 130px;
+    height: 130px;
+    border:2px solid #3882f6;
+    border-radius: 6px;
+}
+.space3{
+    width: 130px;
+    height: 130px;
+    border:2px solid #3882f6;
+    border-radius: 6px;
+}
+.space4{
+    width: 130px;
+    height: 130px;
+    border:2px solid #3882f6;
+    border-radius: 6px;
+}
+.upper-middle{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    
+}
+.upper-middle ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    gap: 64px;
+    padding: 0;
+    margin: 0;
+    margin-top: 7px;
+    
+}
+.upper-middle li{
+    width: 100px;
+    text-align: center;
 }
 .text ul{
     color: #1F2937;
@@ -82,7 +133,10 @@
 .lower-middle{
     background-color: #E5E7EB;
     color: #1F2937;
-    font-size: 36px;
+    font-size: 32px;
+    height: 300px;
+    justify-content: center;
 }.lower-middle div{
     font-weight: bolder;
+    margin-right: auto;
 }
