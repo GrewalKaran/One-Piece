@@ -1,7 +1,13 @@
-
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .header{
     background-color: #1F2937; 
     font-family: sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
 }
 .content-left p {
     color:  #f9faf8;
@@ -9,6 +15,8 @@
     font-weight: bolder;
 }
 .right-side ul{
+    display: flex;
+    gap: 15px;
     color: #E5E7EB;
     font-size: 18px;
 }
