@@ -225,6 +225,10 @@
     padding-top: 3px;
     padding-bottom: 3px;
 }
+.lower a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
 .footer{
     background-color: #1F2937;
     height: 60px;
