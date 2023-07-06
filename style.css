@@ -107,7 +107,7 @@
 .upper-middle{
     display: flex;
     flex-direction: column;
-    height: 300px;
+    height: 385px;
     
 }
 .upper-middle ul{
@@ -138,7 +138,7 @@
     font-size: 32px;
     align-items: center;
     justify-content:center;
-    height: 300px;
+    height: 360px;
     flex-wrap: wrap;
     
  
