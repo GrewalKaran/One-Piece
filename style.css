@@ -194,3 +194,11 @@ gap: 120px;
     padding-top: 3px;
     padding-bottom: 3px;
 }
+.footer{
+    background-color: #1F2937;
+    height: 60px;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
