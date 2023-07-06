@@ -166,4 +166,14 @@ height: 90px;
 border-radius: 7px;
 display: flex;
 margin-left: 15%;
+color: #E5E7EB;
+}
+.lower h2{
+   
+}
+.lower p{
+    
+}
+.lower button{
+    color: #E5E7EB;
 }
