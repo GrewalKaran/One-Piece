@@ -222,7 +222,7 @@ color: #E5E7EB;
 .lower button{
     margin-top: 10px;
     color: #E5E7EB;
-    background-color: transparent;
+    background-color:rgba(192, 12, 12, 0.904);
     border: 2px solid #E5E7EB;
     border-radius: 5px;
     width: 90px;
