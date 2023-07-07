@@ -53,6 +53,9 @@
     width: 160px;
     border-radius: 6px;
 }
+.content-left button a{
+text-decoration:none;
+}
 .content-left div {
     color: #E5E7EB;
     font-size: 18px;
