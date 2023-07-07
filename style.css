@@ -198,7 +198,6 @@ color: #E5E7EB;
     margin-top:90px;
     margin-bottom: 90px; 
     background-color: rgba(192, 12, 12, 0.904);
-    width:900px;
     height: 100px;
     border-radius: 7px;
     display: flex;
@@ -206,7 +205,7 @@ color: #E5E7EB;
     color: #E5E7EB;
     justify-content: center;
     align-items: center;
-    gap: 120px;
+    gap: 120px; 
 }
 .lower h2{
    margin: 0;
